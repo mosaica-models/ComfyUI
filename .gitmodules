@@ -1,3 +1,6 @@
 [submodule "custom_nodes/ComfyUI-DepthAnythingV2"]
 	path = custom_nodes/ComfyUI-DepthAnythingV2
 	url = https://github.com/mosaica-models/ComfyUI-DepthAnythingV2.git
+[submodule "custom_nodes/CmfyUI_IPAdapter_plus"]
+	path = custom_nodes/CmfyUI_IPAdapter_plus
+	url = https://github.com/mosaica-models/ComfyUI_IPAdapter_plus.git
