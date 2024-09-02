@@ -4,3 +4,12 @@
 [submodule "custom_nodes/CmfyUI_IPAdapter_plus"]
 	path = custom_nodes/CmfyUI_IPAdapter_plus
 	url = https://github.com/mosaica-models/ComfyUI_IPAdapter_plus.git
+[submodule "custom_nodes/x-flux-comfyui"]
+	path = custom_nodes/x-flux-comfyui
+	url = https://github.com/mosaica-models/x-flux-comfyui.git
+[submodule "custom_nodes/ComfyUI-GGUF"]
+	path = custom_nodes/ComfyUI-GGUF
+	url = https://github.com/mosaica-models/ComfyUI-GGUF.git
+[submodule "custom_nodes/comfyui_controlnet_aux"]
+	path = custom_nodes/comfyui_controlnet_aux
+	url = https://github.com/mosaica-models/comfyui_controlnet_aux.git
